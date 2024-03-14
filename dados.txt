@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome: Jeane Souza da Hora 
--Profissão: Administradora 
--Cidade: Cascais
--O que faz nas horas vaga: estudo
--Feedback sobre o curso Qualidade de Software: aperendendo e achando muito dificil tudo que nunca vi!!!
--Feedback sobre a plataforma de estudo da EBAC: uma otima ferramenta!!
+-Primeiro Nome: Maria da Hora 
+-Profissão: advogada 
+-Cidade: Ilhéus 
+-O que faz nas horas vaga: treino
+-Feedback sobre o curso Qualidade de Software: bom!!!
+-Feedback sobre a plataforma de estudo da EBAC: boa!
 
 Obrigado!!!
 
